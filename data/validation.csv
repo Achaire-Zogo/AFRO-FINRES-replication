@@ -1,0 +1,6 @@
+outcome,n,spearman,p,partial_rho_gdp,partial_p
+mm_account,36,0.4497,0.0059,0.3333,0.0504
+account,36,0.7462,0.0,0.5887,0.0002
+distrust_digital,34,0.4558,0.0068,0.3628,0.035
+phone_lock,34,0.2174,0.2168,0.0075,0.9663
+mm_meets_needs,33,0.2801,0.1144,0.231,0.1959

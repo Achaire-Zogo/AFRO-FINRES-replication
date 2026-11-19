@@ -1,0 +1,193 @@
+scenario,iso3,impact,tau,Tr,loss,R
+SC1 Phishing / SIM-swap account takeover,MUS,11.762,22.527,51.883,570.075,0.976
+SC1 Phishing / SIM-swap account takeover,ZAF,13.979,30.044,71.484,919.638,0.962
+SC1 Phishing / SIM-swap account takeover,BWA,15.708,31.691,73.211,1072.771,0.955
+SC1 Phishing / SIM-swap account takeover,GHA,16.195,26.937,65.59,967.387,0.96
+SC1 Phishing / SIM-swap account takeover,RWA,14.404,26.169,69.519,877.631,0.963
+SC1 Phishing / SIM-swap account takeover,TZA,16.637,30.48,72.182,1107.539,0.954
+SC1 Phishing / SIM-swap account takeover,KEN,15.1,32.166,76.87,1066.073,0.956
+SC1 Phishing / SIM-swap account takeover,CPV,19.269,52.825,67.18,1665.091,0.931
+SC1 Phishing / SIM-swap account takeover,BEN,17.64,30.277,83.68,1272.154,0.947
+SC1 Phishing / SIM-swap account takeover,ZMB,17.807,35.066,83.85,1370.937,0.943
+SC1 Phishing / SIM-swap account takeover,TGO,17.23,41.198,83.721,1431.083,0.94
+SC1 Phishing / SIM-swap account takeover,SEN,19.521,40.223,76.276,1529.663,0.936
+SC1 Phishing / SIM-swap account takeover,CIV,19.072,39.128,81.448,1522.937,0.937
+SC1 Phishing / SIM-swap account takeover,SWZ,19.463,42.979,75.352,1569.788,0.935
+SC1 Phishing / SIM-swap account takeover,SYC,15.483,64.15,64.472,1492.321,0.938
+SC1 Phishing / SIM-swap account takeover,NGA,18.822,35.908,88.52,1508.966,0.937
+SC1 Phishing / SIM-swap account takeover,GMB,20.202,51.319,87.845,1924.072,0.92
+SC1 Phishing / SIM-swap account takeover,UGA,18.971,36.412,89.869,1543.218,0.936
+SC1 Phishing / SIM-swap account takeover,NAM,19.696,64.411,83.247,2088.465,0.913
+SC1 Phishing / SIM-swap account takeover,MWI,19.442,39.09,93.144,1665.456,0.931
+SC1 Phishing / SIM-swap account takeover,BFA,20.015,47.418,93.291,1882.703,0.922
+SC1 Phishing / SIM-swap account takeover,ETH,18.904,43.391,93.007,1699.398,0.929
+SC1 Phishing / SIM-swap account takeover,MOZ,21.185,50.664,91.468,2042.238,0.915
+SC1 Phishing / SIM-swap account takeover,GAB,21.146,72.0,92.126,2496.527,0.896
+SC1 Phishing / SIM-swap account takeover,CMR,19.61,60.591,91.48,2085.108,0.913
+SC1 Phishing / SIM-swap account takeover,LSO,21.153,66.742,95.936,2426.488,0.899
+SC1 Phishing / SIM-swap account takeover,SLE,22.075,69.407,91.852,2545.91,0.894
+SC1 Phishing / SIM-swap account takeover,GIN,21.369,64.81,95.87,2409.288,0.9
+SC1 Phishing / SIM-swap account takeover,AGO,22.286,68.695,93.977,2578.124,0.893
+SC1 Phishing / SIM-swap account takeover,GNQ,22.803,69.902,94.853,2675.421,0.889
+SC1 Phishing / SIM-swap account takeover,ZWE,21.053,69.569,97.216,2487.999,0.896
+SC1 Phishing / SIM-swap account takeover,SDN,23.915,50.39,104.907,2459.491,0.898
+SC1 Phishing / SIM-swap account takeover,COG,23.708,72.0,102.87,2926.424,0.878
+SC1 Phishing / SIM-swap account takeover,COD,22.069,63.174,102.28,2522.832,0.895
+SC1 Phishing / SIM-swap account takeover,SOM,23.326,65.543,101.126,2708.332,0.887
+SC1 Phishing / SIM-swap account takeover,COM,22.611,57.5,103.568,2471.059,0.897
+SC1 Phishing / SIM-swap account takeover,MRT,22.672,69.34,97.054,2672.305,0.889
+SC1 Phishing / SIM-swap account takeover,MDG,22.045,66.78,104.762,2626.949,0.891
+SC1 Phishing / SIM-swap account takeover,STP,22.837,69.327,99.243,2716.47,0.887
+SC1 Phishing / SIM-swap account takeover,MLI,23.51,64.078,105.534,2746.979,0.886
+SC1 Phishing / SIM-swap account takeover,TCD,23.266,66.677,104.326,2764.945,0.885
+SC1 Phishing / SIM-swap account takeover,NER,23.34,69.388,103.378,2825.946,0.882
+SC1 Phishing / SIM-swap account takeover,LBR,23.603,72.0,105.212,2941.046,0.877
+SC1 Phishing / SIM-swap account takeover,SSD,24.318,65.577,109.981,2932.011,0.878
+SC1 Phishing / SIM-swap account takeover,BDI,23.919,72.0,116.33,3113.467,0.87
+SC1 Phishing / SIM-swap account takeover,GNB,24.227,72.0,110.375,3081.33,0.872
+SC1 Phishing / SIM-swap account takeover,ERI,24.96,72.0,114.632,3227.679,0.866
+SC1 Phishing / SIM-swap account takeover,CAF,25.0,72.0,118.783,3284.787,0.863
+SC2 Payment-API provider failure,MUS,14.114,1.877,20.753,172.952,0.993
+SC2 Payment-API provider failure,ZAF,24.809,2.504,28.594,416.796,0.983
+SC2 Payment-API provider failure,BWA,23.305,2.641,29.284,402.782,0.983
+SC2 Payment-API provider failure,GHA,32.531,2.245,26.236,499.771,0.979
+SC2 Payment-API provider failure,RWA,28.168,2.181,27.808,453.068,0.981
+SC2 Payment-API provider failure,TZA,32.953,2.54,28.873,559.429,0.977
+SC2 Payment-API provider failure,KEN,28.871,2.68,30.748,521.243,0.978
+SC2 Payment-API provider failure,CPV,23.122,4.402,26.872,412.456,0.983
+SC2 Payment-API provider failure,BEN,38.007,2.523,33.472,731.989,0.97
+SC2 Payment-API provider failure,ZMB,36.618,2.922,33.54,721.088,0.97
+SC2 Payment-API provider failure,TGO,35.023,3.433,33.488,706.666,0.971
+SC2 Payment-API provider failure,SEN,41.736,3.352,30.51,776.586,0.968
+SC2 Payment-API provider failure,CIV,40.797,3.261,32.579,797.599,0.967
+SC2 Payment-API provider failure,SWZ,46.711,3.582,30.141,871.256,0.964
+SC2 Payment-API provider failure,SYC,37.159,5.346,25.789,677.782,0.972
+SC2 Payment-API provider failure,NGA,41.865,2.992,35.408,866.452,0.964
+SC2 Payment-API provider failure,GMB,33.935,4.277,35.138,741.322,0.969
+SC2 Payment-API provider failure,UGA,43.345,3.034,35.948,910.593,0.962
+SC2 Payment-API provider failure,NAM,33.749,5.368,33.299,743.051,0.969
+SC2 Payment-API provider failure,MWI,40.658,3.257,37.258,889.86,0.963
+SC2 Payment-API provider failure,BFA,41.449,3.951,37.316,937.137,0.961
+SC2 Payment-API provider failure,ETH,44.475,3.616,37.203,988.106,0.959
+SC2 Payment-API provider failure,MOZ,44.746,4.222,36.587,1007.488,0.958
+SC2 Payment-API provider failure,GAB,29.628,6.0,36.85,723.662,0.97
+SC2 Payment-API provider failure,CMR,38.542,5.049,36.592,899.779,0.963
+SC2 Payment-API provider failure,LSO,41.208,5.562,38.374,1019.862,0.958
+SC2 Payment-API provider failure,SLE,43.112,5.784,36.741,1041.325,0.957
+SC2 Payment-API provider failure,GIN,46.119,5.401,38.348,1133.372,0.953
+SC2 Payment-API provider failure,AGO,45.931,5.725,37.591,1126.242,0.953
+SC2 Payment-API provider failure,GNQ,46.324,5.825,37.941,1148.626,0.952
+SC2 Payment-API provider failure,ZWE,45.881,5.797,38.887,1158.078,0.952
+SC2 Payment-API provider failure,SDN,54.021,4.199,41.963,1360.276,0.943
+SC2 Payment-API provider failure,COG,39.486,6.0,41.148,1049.29,0.956
+SC2 Payment-API provider failure,COD,49.497,5.264,40.912,1273.09,0.947
+SC2 Payment-API provider failure,SOM,50.043,5.462,40.45,1285.47,0.946
+SC2 Payment-API provider failure,COM,54.267,4.792,41.427,1384.102,0.942
+SC2 Payment-API provider failure,MRT,54.413,5.778,38.822,1370.628,0.943
+SC2 Payment-API provider failure,MDG,50.113,5.565,41.905,1328.86,0.945
+SC2 Payment-API provider failure,STP,54.809,5.777,39.697,1404.545,0.941
+SC2 Payment-API provider failure,MLI,51.492,5.34,42.214,1361.782,0.943
+SC2 Payment-API provider failure,TCD,51.528,5.556,41.731,1361.455,0.943
+SC2 Payment-API provider failure,NER,56.016,5.782,41.351,1482.073,0.938
+SC2 Payment-API provider failure,LBR,51.815,6.0,42.085,1401.191,0.942
+SC2 Payment-API provider failure,SSD,55.411,5.465,43.992,1521.64,0.937
+SC2 Payment-API provider failure,BDI,49.734,6.0,46.532,1455.517,0.939
+SC2 Payment-API provider failure,GNB,58.144,6.0,44.15,1632.395,0.932
+SC2 Payment-API provider failure,ERI,59.903,6.0,45.853,1732.78,0.928
+SC2 Payment-API provider failure,CAF,60.0,6.0,47.513,1785.395,0.926
+SC3 Core mobile-money platform outage,MUS,42.342,0.626,15.565,356.022,0.985
+SC3 Core mobile-money platform outage,ZAF,50.325,0.835,21.445,581.615,0.976
+SC3 Core mobile-money platform outage,BWA,56.547,0.88,21.963,670.758,0.972
+SC3 Core mobile-money platform outage,GHA,58.303,0.748,19.677,617.243,0.974
+SC3 Core mobile-money platform outage,RWA,51.856,0.727,20.856,578.437,0.976
+SC3 Core mobile-money platform outage,TZA,59.893,0.847,21.655,699.194,0.971
+SC3 Core mobile-money platform outage,KEN,54.36,0.893,23.061,675.368,0.972
+SC3 Core mobile-money platform outage,CPV,69.367,1.467,20.154,800.794,0.967
+SC3 Core mobile-money platform outage,BEN,63.504,0.841,25.104,850.519,0.965
+SC3 Core mobile-money platform outage,ZMB,64.104,0.974,25.155,868.702,0.964
+SC3 Core mobile-money platform outage,TGO,62.027,1.144,25.116,849.932,0.965
+SC3 Core mobile-money platform outage,SEN,70.274,1.117,22.883,882.555,0.963
+SC3 Core mobile-money platform outage,CIV,68.659,1.087,24.434,913.45,0.962
+SC3 Core mobile-money platform outage,SWZ,70.067,1.194,22.606,875.6,0.964
+SC3 Core mobile-money platform outage,SYC,55.738,1.782,19.342,638.352,0.973
+SC3 Core mobile-money platform outage,NGA,67.761,0.997,26.556,967.317,0.96
+SC3 Core mobile-money platform outage,GMB,72.727,1.426,26.354,1061.987,0.956
+SC3 Core mobile-money platform outage,UGA,68.295,1.011,26.961,989.723,0.959
+SC3 Core mobile-money platform outage,NAM,70.906,1.789,24.974,1012.276,0.958
+SC3 Core mobile-money platform outage,MWI,69.992,1.086,27.943,1053.899,0.956
+SC3 Core mobile-money platform outage,BFA,72.055,1.317,27.987,1103.221,0.954
+SC3 Core mobile-money platform outage,ETH,68.056,1.205,27.902,1031.481,0.957
+SC3 Core mobile-money platform outage,MOZ,76.267,1.407,27.44,1153.74,0.952
+SC3 Core mobile-money platform outage,GAB,76.125,2.0,27.638,1204.207,0.95
+SC3 Core mobile-money platform outage,CMR,70.595,1.683,27.444,1087.515,0.955
+SC3 Core mobile-money platform outage,LSO,76.152,1.854,28.781,1237.032,0.948
+SC3 Core mobile-money platform outage,SLE,79.468,1.928,27.555,1248.104,0.948
+SC3 Core mobile-money platform outage,GIN,76.93,1.8,28.761,1244.777,0.948
+SC3 Core mobile-money platform outage,AGO,80.23,1.908,28.193,1284.06,0.946
+SC3 Core mobile-money platform outage,GNQ,82.091,1.942,28.456,1327.371,0.945
+SC3 Core mobile-money platform outage,ZWE,75.791,1.932,29.165,1251.683,0.948
+SC3 Core mobile-money platform outage,SDN,86.094,1.4,31.472,1475.28,0.939
+SC3 Core mobile-money platform outage,COG,85.35,2.0,30.861,1487.688,0.938
+SC3 Core mobile-money platform outage,COD,79.45,1.755,30.684,1358.337,0.943
+SC3 Core mobile-money platform outage,SOM,83.975,1.821,30.338,1426.692,0.941
+SC3 Core mobile-money platform outage,COM,81.401,1.597,31.071,1394.596,0.942
+SC3 Core mobile-money platform outage,MRT,81.62,1.926,29.116,1345.445,0.944
+SC3 Core mobile-money platform outage,MDG,79.364,1.855,31.429,1394.362,0.942
+SC3 Core mobile-money platform outage,STP,82.214,1.926,29.773,1382.207,0.942
+SC3 Core mobile-money platform outage,MLI,84.635,1.78,31.66,1490.42,0.938
+SC3 Core mobile-money platform outage,TCD,83.758,1.852,31.298,1465.857,0.939
+SC3 Core mobile-money platform outage,NER,84.025,1.927,31.013,1464.892,0.939
+SC3 Core mobile-money platform outage,LBR,84.97,2.0,31.564,1510.916,0.937
+SC3 Core mobile-money platform outage,SSD,87.546,1.822,32.994,1603.74,0.933
+SC3 Core mobile-money platform outage,BDI,86.11,2.0,34.899,1674.789,0.93
+SC3 Core mobile-money platform outage,GNB,87.216,2.0,33.113,1618.405,0.933
+SC3 Core mobile-money platform outage,ERI,89.855,2.0,34.389,1724.74,0.928
+SC3 Core mobile-money platform outage,CAF,90.0,2.0,35.635,1783.57,0.926
+SC4 Attack on shared switch / central infrastructure,MUS,16.466,7.509,41.507,465.378,0.981
+SC4 Attack on shared switch / central infrastructure,ZAF,28.943,10.015,57.187,1117.455,0.953
+SC4 Attack on shared switch / central infrastructure,BWA,27.189,10.564,58.569,1083.433,0.955
+SC4 Attack on shared switch / central infrastructure,GHA,37.953,8.979,52.472,1336.526,0.944
+SC4 Attack on shared switch / central infrastructure,RWA,32.863,8.723,55.615,1200.488,0.95
+SC4 Attack on shared switch / central infrastructure,TZA,38.446,10.16,57.746,1500.635,0.937
+SC4 Attack on shared switch / central infrastructure,KEN,33.682,10.722,61.496,1396.806,0.942
+SC4 Attack on shared switch / central infrastructure,CPV,26.976,17.608,53.744,1199.899,0.95
+SC4 Attack on shared switch / central infrastructure,BEN,44.342,10.092,66.944,1931.732,0.92
+SC4 Attack on shared switch / central infrastructure,ZMB,42.721,11.689,67.08,1932.213,0.919
+SC4 Attack on shared switch / central infrastructure,TGO,40.86,13.733,66.977,1929.445,0.92
+SC4 Attack on shared switch / central infrastructure,SEN,48.692,13.408,61.021,2138.459,0.911
+SC4 Attack on shared switch / central infrastructure,CIV,47.597,13.043,65.158,2171.459,0.91
+SC4 Attack on shared switch / central infrastructure,SWZ,54.496,14.326,60.282,2423.297,0.899
+SC4 Attack on shared switch / central infrastructure,SYC,43.352,21.383,51.578,2044.993,0.915
+SC4 Attack on shared switch / central infrastructure,NGA,48.842,11.969,70.816,2314.029,0.904
+SC4 Attack on shared switch / central infrastructure,GMB,39.59,17.106,70.276,2068.373,0.914
+SC4 Attack on shared switch / central infrastructure,UGA,50.569,12.137,71.895,2431.603,0.899
+SC4 Attack on shared switch / central infrastructure,NAM,39.374,21.47,66.598,2156.467,0.91
+SC4 Attack on shared switch / central infrastructure,MWI,47.435,13.03,74.515,2385.375,0.901
+SC4 Attack on shared switch / central infrastructure,BFA,48.357,15.806,74.633,2568.812,0.893
+SC4 Attack on shared switch / central infrastructure,ETH,51.887,14.464,74.406,2680.814,0.888
+SC4 Attack on shared switch / central infrastructure,MOZ,52.204,16.888,73.175,2791.616,0.884
+SC4 Attack on shared switch / central infrastructure,GAB,34.566,24.0,73.701,2103.333,0.912
+SC4 Attack on shared switch / central infrastructure,CMR,44.966,20.197,73.184,2553.574,0.894
+SC4 Attack on shared switch / central infrastructure,LSO,48.076,22.247,76.749,2914.463,0.879
+SC4 Attack on shared switch / central infrastructure,SLE,50.297,23.136,73.481,3011.581,0.875
+SC4 Attack on shared switch / central infrastructure,GIN,53.806,21.603,76.696,3225.73,0.866
+SC4 Attack on shared switch / central infrastructure,AGO,53.587,22.898,75.182,3241.419,0.865
+SC4 Attack on shared switch / central infrastructure,GNQ,54.044,23.301,75.882,3309.759,0.862
+SC4 Attack on shared switch / central infrastructure,ZWE,53.528,23.19,77.773,3322.836,0.862
+SC4 Attack on shared switch / central infrastructure,SDN,63.024,16.797,83.925,3703.277,0.846
+SC4 Attack on shared switch / central infrastructure,COG,46.066,24.0,82.296,3001.142,0.875
+SC4 Attack on shared switch / central infrastructure,COD,57.747,21.058,81.824,3578.557,0.851
+SC4 Attack on shared switch / central infrastructure,SOM,58.384,21.848,80.901,3637.209,0.848
+SC4 Attack on shared switch / central infrastructure,COM,63.312,19.167,82.855,3836.309,0.84
+SC4 Attack on shared switch / central infrastructure,MRT,63.482,23.113,77.643,3931.771,0.836
+SC4 Attack on shared switch / central infrastructure,MDG,58.465,22.26,83.81,3751.385,0.844
+SC4 Attack on shared switch / central infrastructure,STP,63.944,23.109,79.395,4016.12,0.833
+SC4 Attack on shared switch / central infrastructure,MLI,60.074,21.359,84.427,3819.057,0.841
+SC4 Attack on shared switch / central infrastructure,TCD,60.116,22.226,83.461,3844.783,0.84
+SC4 Attack on shared switch / central infrastructure,NER,65.352,23.129,82.702,4213.946,0.824
+SC4 Attack on shared switch / central infrastructure,LBR,60.451,24.0,84.169,3994.853,0.834
+SC4 Attack on shared switch / central infrastructure,SSD,64.646,21.859,87.985,4257.042,0.823
+SC4 Attack on shared switch / central infrastructure,BDI,58.023,24.0,93.064,4092.487,0.829
+SC4 Attack on shared switch / central infrastructure,GNB,67.835,24.0,88.3,4622.938,0.807
+SC4 Attack on shared switch / central infrastructure,ERI,69.887,24.0,91.705,4881.797,0.797
+SC4 Attack on shared switch / central infrastructure,CAF,70.0,24.0,95.026,5005.922,0.791
