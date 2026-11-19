@@ -1,0 +1,9 @@
+figures/*.png
+manuscript/*.aux
+manuscript/*.log
+manuscript/*.bbl
+manuscript/*.blg
+manuscript/*.fls
+manuscript/*.fdb_latexmk
+manuscript/*.out
+__pycache__/

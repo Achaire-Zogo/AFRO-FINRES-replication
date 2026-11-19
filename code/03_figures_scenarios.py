@@ -6,6 +6,7 @@ K = ['P','D','S','C','G','T']
 LAB = ['Prevention (P)','Detection (D)','Response (S)','Recovery &\ncontinuity (C)','Governance (G)','Third-party\nmgmt (T)']
 CEMAC = ['CMR','CAF','TCD','COG','GNQ','GAB']
 F='figures/'
+import os; os.makedirs(F, exist_ok=True)
 # Fig 2: ranking with MC uncertainty
 d = S.sort_values('AFRO_FINRES')
 fig, ax = plt.subplots(figsize=(6.3,7.6))

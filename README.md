@@ -2,6 +2,8 @@
 
 Replication material for *Measuring the Operational Resilience of FinTech Ecosystems in Sub-Saharan Africa: The AFRO-FINRES Framework and Evidence from Cameroon and the CEMAC Region*.
 
+Repository: https://github.com/Achaire-Zogo/AFRO-FINRES-replication
+
 ## Requirements
 Python 3.10+, packages in `requirements.txt` (`pip install -r requirements.txt`). LaTeX (pdflatex + bibtex) to rebuild the manuscript.
 
@@ -9,7 +11,7 @@ Python 3.10+, packages in `requirements.txt` (`pip install -r requirements.txt`)
 1. `cd data && python3 ../code/01_fetch_wb.py && cd ..` – downloads WDI, WGI and Global Findex data from the World Bank API into `data/wb_raw.csv` (optional; the raw file is included).
 2. `python3 code/02_build_index.py` – builds indicators, dimension scores, the composite index, robustness analysis (PCA, Cronbach's alpha, LODO, 5000 Monte Carlo draws) and external validation. Outputs: `data/afro_finres_scores.csv`, `data/afro_finres_indicators_raw.csv`, `data/validation.csv`, `data/results_summary.json`.
 3. `python3 code/03_figures_scenarios.py` – figures 2–5 (`figures/`) and stress-test results.
-4. `cd manuscript && latexmk -pdf main.tex` – manuscript PDF.
+4. `cd manuscript && latexmk -pdf main.tex` – manuscript PDF (LaTeX source, bibliography, figures, French summary `resume_fr.tex` and cover letter `cover_letter.tex` are in `manuscript/`).
 
 ## Data
 - `data/gci2024_pillars.csv`: ITU GCI 2024 pillar scores transcribed from the country profiles (`source_page` = PDF page of `data/gci2024.pdf`).
